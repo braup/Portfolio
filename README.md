@@ -1,8 +1,8 @@
 # Brittny Raup
-*An Aspiring Data Scientist | Project Manager*
+*An Aspiring Data Analyst | Project Manager*
 
 # Education
-* Masters of Science (Data Science), *Texas Lutheran University*, 2017-2018
+* Masters of Science (Data Analytics), *Texas Lutheran University*, 2017-2018
 * Bachelors of Business Administration (Marketing), *Texas Lutheran University*, 2013-2017
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
