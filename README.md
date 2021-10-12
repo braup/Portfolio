@@ -14,7 +14,7 @@ This project makes use of a waffle chart to  reflect tie scoring from 2018 to 20
 * **Excel:** Used to pull,clean data, and create visuals
 * With this project I wanted to highlight the ties that have changed scoring from 2018 to 2020.
 
-# [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
+# Project 2: LFD Scoring
 ![alt text](mika-baumeister-Wpnoqo2plFA-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@mbaumi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mika Baumeister</a> on <a href="https://unsplash.com/s/photos/analyst?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
