@@ -5,15 +5,13 @@
 * Masters of Science (Data Analytics), *Texas Lutheran University*, 2017-2018
 * Bachelors of Business Administration (Marketing), *Texas Lutheran University*, 2013-2017
 
-# [Project 1: Tie Grade Repeatabilty ]
+# Project 1: Tie Grade Repeatabilty 
 ![alt text](Helix grading.jpg)
 
-Photo by Brittny Raup</a> on Excel</a>
+Photo by Brittny Raup on Excel
  
-This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
-* **Python libraries used:** Streamlit, Huggingface, TensorFlow
-* **Input:** Tweets, News
-* **Output:** Sentiment of Cryptocurrency
+This project makes use of a waffle chart to  reflect tie scoring from 2018 to 2020.
+* **Excel**
 
 # [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
 ![alt text](mika-baumeister-Wpnoqo2plFA-unsplash.jpg)
