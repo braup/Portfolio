@@ -23,7 +23,7 @@ For this project I built a waffle chart to highlight the different areas of ties
 * **Excel:** Used to pull, clean data, and create visuals
 
 # Project 2: LFD Scoring
-![alt text](LFD Charts.jpg)
+![](/LFD Charts.jpg)
 
 Photo by Brittny Raup on Excel
   
