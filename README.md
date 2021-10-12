@@ -11,8 +11,8 @@
 Photo by Brittny Raup on Excel
  
 This project makes use of a waffle chart to  reflect tie scoring from 2018 to 2020.
-* **Python:** Used to pull data
-* **Excel:** Used to clean data and create visuals
+* **Excel:** Used to pull,clean data, and create visuals
+* With this project I wanted to highlight the ties that have changed scoring from 2018 to 2020.
 
 # [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
 ![alt text](mika-baumeister-Wpnoqo2plFA-unsplash.jpg)
