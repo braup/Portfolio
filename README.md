@@ -6,9 +6,9 @@
 * Bachelors of Business Administration (Marketing), *Texas Lutheran University*, 2013-2017
 
 # [Project 1: Tie Grade Repeatabilty ]
-![alt text](Helix grading.jpg)
+![alt text](Helix grading.png)
 
-Photo by <a href="https://unsplash.com/@markuswinkler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Winkler</a> on <a href="https://unsplash.com/s/photos/analyst?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by Brittny Raup</a> on Excel</a>
  
 This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
 * **Python libraries used:** Streamlit, Huggingface, TensorFlow
