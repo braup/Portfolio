@@ -6,7 +6,7 @@
 * Bachelors of Business Administration (Marketing), *Texas Lutheran University*, 2013-2017
 
 # [Project 1: Tie Grade Repeatabilty ]
-![alt text](markus-winkler-IrRbSND5EUc-unsplash (1).jpg)
+![alt text](Helix grading.jpg)
 
 Photo by <a href="https://unsplash.com/@markuswinkler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Winkler</a> on <a href="https://unsplash.com/s/photos/analyst?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
  
