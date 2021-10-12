@@ -6,7 +6,7 @@
 * Bachelors of Business Administration (Marketing), *Texas Lutheran University*, 2013-2017
 
 # [Project 1: Tie Grade Repeatabilty ]
-![alt text](Helix grading.png)
+![alt text](Helix grading.jpg)
 
 Photo by Brittny Raup</a> on Excel</a>
  
