@@ -31,3 +31,4 @@ This project makes use of LFD Scoring *(LFD stands for localized flaw finding).*
 * **Issue:** LFD scoring was outside of parameters
 * **Options:** Keep LFD scoring as is even though it is not accurate or find parameters that will align to scoring to be more accurate
 * **Solution:** Changed parameters to a better score that identifed with for ties to be more accurate
+
