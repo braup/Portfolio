@@ -19,16 +19,15 @@
 
 Photo by Brittny Raup on Excel
  
-This project makes use of ***descriptive analysis*** with a waffle chart to  reflect tie scoring from 2018 to 2020.
-* **Excel:** Used to pull,clean data, and create visuals
-* With this project I wanted to highlight the ties that have changed scoring from 2018 to 2020.
+For this project I built a waffle chart to highlight the different areas of ties from 2018 to 2020. With this I wanted to identify if ties stayed the same or got worse over the course of 3 years. 
+* **Excel:** Used to pull, clean data, and create visuals
 
 # Project 2: LFD Scoring
 ![alt text](LFD Charts.jpg)
 
 Photo by Brittny Raup on Excel
   
-This project makes use of LFD Scoring coupled with ***inferentail analysis*** in order to find a solution due to an occuring issue.
+This project makes use of LFD Scoring *(LFD stands for localized flaw finding).* With this we had an issue where the LFD Scoring was outside of it's parameters. I had to create an algorithm to update these parameters to match the LFD scoring to the tie as closely as possible. 
 * **Issue:** LFD scoring was outside of parameters
 * **Options:** Keep LFD scoring as is even though it is not accurate or find parameters that will align to scoring to be more accurate
-* **Solution:** Changed parameters to better score ties to be more accurate
+* **Solution:** Changed parameters to a better score that identifed with for ties to be more accurate
