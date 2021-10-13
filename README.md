@@ -6,7 +6,7 @@
 * Bachelors of Business Administration (Marketing), *Texas Lutheran University*, 2013-2017
 
 # Skills and Experience
-* Micrsoft Office, Strong organizational, time management and multitasking skills in a demanding environment.
+* Microsoft Office, Strong organizational, time management and multitasking skills in a demanding environment.
 * Excellent people skills such as training, teamwork and customer service.
 *	Proficient use of computers, internet and Microsoft Office Suite.
 *	Problem solving skills in Tableau, SAP, SQL, Workbench and Sharepoint.
@@ -20,7 +20,9 @@
 Photo by Brittny Raup on Excel
  
 For this project I built a waffle chart to highlight the different areas of ties from 2018 to 2020. With this I wanted to identify if ties stayed the same or degraded over the course of 3 years. 
-* **Excel:** Used to pull, clean data, and create visuals
+* **Issue:** Are ties in an area degrading over 3 years?
+* **Options:** They are degrading or the data is not consistent
+* **Solution:** Could not come up with a conclusion due to too many different variables
 
 # Project 2: LFD Scoring
 ![alt text](LFD Charts.jpg)
