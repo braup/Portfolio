@@ -33,7 +33,7 @@ This project makes use of LFD Scoring *(LFD stands for localized flaw finding).*
 * **Solution:** Changed parameters to a better score that identifed with for ties to be more accurate
 
 # Project 3: Crossing Project
-![alt text](Coding.jpg)
+![alt text](Coding close up.jpg.png)  ![alt text](Coding Console.jpg.png)
 
 Photo by Brittny Raup on Excel
   
