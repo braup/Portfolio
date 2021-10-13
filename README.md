@@ -38,6 +38,8 @@ This project makes use of LFD Scoring *(LFD stands for localized flaw finding).*
 Photo by Brittny Raup on Excel
   
 This project makes use of the algorithms within a drone. How accurate it can identify crossings. 
+For this example I was able to categorize if the drones found the crossing on target, before, or after it began.
+
 * **Issue:** Are the drones accurate enough?
 * **Hypothesis:** If the drones are within a treshold of 90% or greater the current algorithm is accurate enough. If not, we must update the algorithm
 * **Solution:** Drones were within the required threshold and did not need to be updated
