@@ -33,7 +33,7 @@ This project makes use of LFD Scoring *(LFD stands for localized flaw finding).*
 * **Solution:** Changed parameters to a better score that identifed with for ties to be more accurate
 
 # Project 3: Crossing Project
-![alt text](Coding close up.jpg.png)  ![alt text](Coding Console.jpg.png)
+![alt text](Coding close up.jpg.png)
 
 Photo by Brittny Raup on Excel
   
@@ -42,3 +42,5 @@ This project makes use of the algorithms within a drone. How accurate it can ide
 * **Hypothesis:** If the drones are within a treshold of 90% or greater the current algorithm is accurate enough. If not, we must update the algorithm
 * **Solution:** Drones were within the required threshold and did not need to be updated
 * *This is a sample*
+
+![alt text](Coding Console.jpg.png)
