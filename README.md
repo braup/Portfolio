@@ -1,5 +1,5 @@
 # Brittny Raup
-*An Aspiring Data Analyst | Project Manager*
+*Data Analyst | Project Manager*
 
 # Education
 * Masters of Science (Data Analytics), *Texas Lutheran University*, 2017-2018
@@ -19,7 +19,7 @@
 
 Photo by Brittny Raup on Excel
  
-For this project I built a waffle chart to highlight the different areas of ties from 2018 to 2020. With this I wanted to identify if ties stayed the same or got worse over the course of 3 years. 
+For this project I built a waffle chart to highlight the different areas of ties from 2018 to 2020. With this I wanted to identify if ties stayed the same or degraded over the course of 3 years. 
 * **Excel:** Used to pull, clean data, and create visuals
 
 # Project 2: LFD Scoring
