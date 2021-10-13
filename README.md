@@ -37,7 +37,7 @@ This project makes use of LFD Scoring *(LFD stands for localized flaw finding).*
 # Project 3: Crossing Project
 ![alt text](Coding close up.jpg.png)
 
-Photo by Brittny Raup on Excel
+Photo by Brittny Raup In Spyder
   
 This project makes use of the algorithms within a drone. How accurate it can identify crossings. 
 
